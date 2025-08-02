@@ -18,4 +18,4 @@ input.onButtonPressed(Button.AB, function () {
 input.onButtonPressed(Button.B, function () {
     radio.sendNumber(5)
 })
-radio.setGroup(3)
+radio.setGroup(2)
